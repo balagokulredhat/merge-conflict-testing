@@ -1,5 +1,6 @@
 from A 1
-added this new line in the new branch  
+added this new line 
+edited this file from the main branch to cehck the conflict
 from A 2
 from A 3
 from A 4
@@ -28,9 +29,15 @@ from A 22
 from A 23
 from A 24
 from A 25
+edited this file from the main branch to cehck the conflict
 from A 26
+<<<<<<< HEAD
 added this new line in the new branch  
+=======
+edited this file from the main branch to cehck the conflict
+>>>>>>> main
 from A 27
+edited this file from the main branch to cehck the conflict
 from A 28
 from A 29
 from A 30
@@ -38,11 +45,16 @@ from A 31
 from A 32
 added this new line in the new branch  
 from A 33
+edited this file from the main branch to cehck the conflict
+edited this file from the main branch to cehck the conflict
+edited this file from the main branch to cehck the conflict
 from A 34
 from A 35
 from A 36
 from A 37
 from A 38
+edited this file from the main branch to cehck the conflict
+edited this file from the main branch to cehck the conflict
 from A 39
 from A 40
 from A 41
